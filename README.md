@@ -1,0 +1,2 @@
+# Asal-MukemmelSayi-Hesaplama
+C#
